@@ -1,5 +1,5 @@
 echo off
-title Base 242
+title Token Loader
 color a
 cls
 :a
